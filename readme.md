@@ -5,17 +5,17 @@ The code isn't clean. It's just for researching and validation. I will make an a
 
 | Purpose           | Type/Size  | Value        |
 | ------------- |-------------| -----|
-| Length of listing | 128bit | 5f000000      |
-| GUID  |  | 10000000fa20508099aeb84e713108dc |
-| Item Data | Array of bytes | 3b9743e304b0159748f88101f10a0122b91700000002040b040051031b00044048cd41f83040610100195a00|
-| Gold Value | 64bit Signed | 204e000000000000 |
-| Favor Cost | 64bit Signed |9000000000000000 |
+| Length of listing | 128bit | 6c000000      |
+| GUID  |  | 1000000049568342ebb3a74379df08dc |
+| Item Data | Array of bytes | 3b9727722400000002040a830046ead61d0320461041f655401fee00ddd2573a784809f64468e5a99d497c96 |
+| Gold Value | 64bit Signed | d007000000000000 |
+| Favor Cost | 64bit Signed |f800000000000000 |
 | BazaarItemState | 8bit | 01  |
 | ownedByRequestingUser | bool | 00 | 
 | canBeTradedByRequestingUser | bool | 01 | 
-| listedAtUnixSecond | 64bit Signed | 6dede56500000000 |
-| Version | 128bit |100000002386c0d0f3bf604888a1cb12 |
-| No idea | | f2164cf200 |
+| listedAtUnixSecond | 64bit Signed | 0417e96500000000 |
+| Version | 128bit |10000000df796d238942ba44bda0c64f |
+| No idea | | 033e746500 |
 
 I'm not sure what the last item is, or if it belongs to the beginning of the next listing or the end of this one
 
