@@ -1,0 +1,202 @@
+[
+    {
+        "label": "HELMET",
+        "path": "../resources/Database/Items/Armors/Helms/Helm.json",
+        "value": 0
+    },
+    {
+        "label": "BODY_ARMOR",
+        "path": "../resources/Database/Items/Armors/Bodys/Body.json",
+        "value": 1
+    },
+    {
+        "label": "BELT",
+        "path": "../resources/Database/Items/Armors/Belts/Belt.json",
+        "value": 2
+    },
+    {
+        "label": "BOOTS",
+        "path": "../resources/Database/Items/Armors/Boots/Boot.json",
+        "value": 3
+    },
+    {
+        "label": "GLOVES",
+        "path": "../resources/Database/Items/Armors/Gloves/Glove.json",
+        "value": 4
+    },
+    {
+        "label": "ONE_HANDED_AXE",
+        "path": "../resources/Database/Items/Weapons/Axes/1H/Axe.json",
+        "value": 5
+    },
+    {
+        "label": "ONE_HANDED_DAGGER",
+        "path": "../resources/Database/Items/Weapons/Daggers/Dagger.json",
+        "value": 6
+    },
+    {
+        "label": "ONE_HANDED_MACE",
+        "path": "../resources/Database/Items/Weapons/Blunts/1H/Blunt.json",
+        "value": 7
+    },
+    {
+        "label": "ONE_HANDED_SCEPTRE",
+        "path": "../resources/Database/Items/Weapons/Scepters/Scepter.json",
+        "value": 8
+    },
+    {
+        "label": "ONE_HANDED_SWORD",
+        "path": "../resources/Database/Items/Weapons/Swords/1H/Sword.json",
+        "value": 9
+    },
+    {
+        "label": "WAND",
+        "path": "../resources/Database/Items/Weapons/Wands/Wand.json",
+        "value": 10
+    },
+    {
+        "label": "Fist",
+        "path": "../resources/Database/Items/Weapons/Fist/Fist.json",
+        "value": 11
+    },
+    {
+        "label": "TWO_HANDED_AXE",
+        "path": "../resources/Database/Items/Weapons/Axes/2H/Two-handed_Axe.json",
+        "value": 12
+    },
+    {
+        "label": "TWO_HANDED_MACE",
+        "path": "../resources/Database/Items/Weapons/Blunts/2H/Two-handed_Blunt.json",
+        "value": 13
+    },
+    {
+        "label": "TWO_HANDED_SPEAR",
+        "path": "../resources/Database/Items/Weapons/Polearms/Polearm.json",
+        "value": 14
+    },
+    {
+        "label": "TWO_HANDED_STAFF",
+        "path": "../resources/Database/Items/Weapons/Staffs/Staff.json",
+        "value": 15
+    },
+    {
+        "label": "TWO_HANDED_SWORD",
+        "path": "../resources/Database/Items/Weapons/Swords/2H/Two-handed_Sword.json",
+        "value": 16
+    },
+    {
+        "label": "QUIVER",
+        "path": "../resources/Database/Items/Weapons/Quivers/Quiver.json",
+        "value": 17
+    },
+    {
+        "label": "SHIELD",
+        "path": "../resources/Database/Items/Armors/Shields/Shield.json",
+        "value": 18
+    },
+    {
+        "label": "CATALYST",
+        "path": "../resources/Database/Items/Accesories/Catalysts/Catalyst.json",
+        "value": 19
+    },
+    {
+        "label": "AMULET",
+        "path": "../resources/Database/Items/Accesories/Amulets/Amulet.json",
+        "value": 20
+    },
+    {
+        "label": "RING",
+        "path": "../resources/Database/Items/Accesories/Rings/Ring.json",
+        "value": 21
+    },
+    {
+        "label": "RELIC",
+        "path": "../resources/Database/Items/Accesories/Relics/Relic.json",
+        "value": 22
+    },
+    {
+        "label": "BOW",
+        "path": "../resources/Database/Items/Weapons/Bows/Bow.json",
+        "value": 23
+    },
+    {
+        "label": "Crossbow",
+        "path": "../resources/Database/Items/Weapons/CrossBows/CrossBow.json",
+        "value": 24
+    },
+    {
+        "label": "IDOL_1x1_ETERRA",
+        "path": "../resources/Database/Items/Idols/Smalls/Small.json",
+        "value": 25
+    },
+    {
+        "label": "IDOL_1x1_LAGON",
+        "path": "../resources/Database/Items/Idols/Small_Lagonians/Small_Lagonian.json",
+        "value": 26
+    },
+    {
+        "label": "IDOL_2x1",
+        "path": "../resources/Database/Items/Idols/Humble_Eterrans/Humble_Eterran.json",
+        "value": 27
+    },
+    {
+        "label": "IDOL_1x2",
+        "path": "../resources/Database/Items/Idols/Stouts/Stout.json",
+        "value": 28
+    },
+    {
+        "label": "IDOL_3x1",
+        "path": "../resources/Database/Items/Idols/Grands/Grand.json",
+        "value": 29
+    },
+    {
+        "label": "IDOL_1x3",
+        "path": "../resources/Database/Items/Idols/Larges/Large.json",
+        "value": 30
+    },
+    {
+        "label": "IDOL_4x1",
+        "path": "../resources/Database/Items/Idols/Ornates/Ornate.json",
+        "value": 31
+    },
+    {
+        "label": "IDOL_1x4",
+        "path": "../resources/Database/Items/Idols/Huges/Huge.json",
+        "value": 32
+    },
+    {
+        "label": "IDOL_2x2",
+        "path": "../resources/Database/Items/Idols/Adorneds/Adorned.json",
+        "value": 33
+    },
+    {
+        "label": "Blessing",
+        "path": "pathtofolder",
+        "value": 34
+    },
+    {
+        "label": "Greater Lens",
+        "path": "pathtofolder",
+        "value": 35
+    },
+    {
+        "label": "Arctus Lens",
+        "path": "pathtofolder",
+        "value": 36
+    },
+    {
+        "label": "Mesembria Lens",
+        "path": "pathtofolder",
+        "value": 37
+    },
+    {
+        "label": "Eos Lens",
+        "path": "pathtofolder",
+        "value": 38
+    },
+    {
+        "label": "Dysis Lens",
+        "path": "pathtofolder",
+        "value": 39
+    }
+]
